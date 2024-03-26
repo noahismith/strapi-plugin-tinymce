@@ -28,11 +28,11 @@ Inside your Strapi app, add the package:
 
 With `npm`:
 ```bash
-npm install @sklinet/strapi-plugin-tinymce
+npm install @noahismith/strapi-plugin-tinymce
 ```
 With `yarn`:
 ```bash
-yarn add @sklinet/strapi-plugin-tinymce
+yarn add @noahismith/strapi-plugin-tinymce
 ```
 
 In `config/plugins.js` file add:
