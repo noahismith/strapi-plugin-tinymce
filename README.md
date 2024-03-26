@@ -1,3 +1,5 @@
+<p>Fork of strapi-plugin-tinymce to allow inserting files at cursor position instead of end of content</p>
+
 <h1 align="center">Strapi plugin TinyMCE</h1>
 
 <p align="center">Replaces the default Strapi WYSIWYG editor with a customized build of TinyMCE editor.</p>
